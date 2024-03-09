@@ -1,0 +1,22 @@
+{
+  "name": "onscroll-custom-animator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkofficial786/onscroll-custom-animator.git"
+  },
+  "keywords": [
+    "animation"
+  ],
+  "author": "Rupraj Singh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rkofficial786/onscroll-custom-animator/issues"
+  },
+  "homepage": "https://github.com/rkofficial786/onscroll-custom-animator#readme"
+}
