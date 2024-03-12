@@ -18,7 +18,7 @@ Versatile Applications: Beyond animations, use it to trigger lazy loading, execu
 
 ## Installation
 
-Install my-project with npm
+Install my package with npm
 
 ```bash
   npm i onscroll-custom-animator
@@ -106,6 +106,8 @@ const { isAnimationTriggered: animateRightBottom, ref: refRightBottom } =
 
 ## 🚀 About Me
 I'm Rupraj Singh, a frontend developer specializing in React, Next.js, and React Native. I'm passionate about crafting delightful user experiences and have extensive experience building dynamic web and mobile applications.
+
+Connect with me on LinkedIn [Rupraj Singh](https://www.linkedin.com/in/rupraj-singh/)
 
 
 ## License
