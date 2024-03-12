@@ -1,7 +1,7 @@
 {
   "name": "onscroll-custom-animator",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.3",
+  "description": "A lightweight React package for triggering animations or actions dynamically when elements come into view during scrolling.",
   "main": "index.js",
   "scripts": {
     "test": "npm run test"
@@ -11,7 +11,28 @@
     "url": "git+https://github.com/rkofficial786/onscroll-custom-animator.git"
   },
   "keywords": [
-    "animation"
+    "Animation",
+    "React",
+    "Scroll",
+    "Trigger",
+    "Viewport",
+    "on scroll animator",
+    "animate on view",
+    "Viewport animations",
+    "Custom Animator",
+    "On Scroll Custom Animation",
+    "Animated Scrolling",
+    "Intersection Observer API",
+    "IO",
+    "Infinite Scroll",
+    "Viewport Observer",
+  "Scroll Animation",
+    "Custom Animation",
+    "Onscroll",
+    "Scroll Trigger",
+    "React Animation",
+    "Frontend",
+    "Web Development"
   ],
   "author": "Rupraj Singh",
   "license": "Apache-2.0",
